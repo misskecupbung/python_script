@@ -1,2 +1,2 @@
 # python_script
-All about my script when learning python.
+All about my scripts when learning python.
